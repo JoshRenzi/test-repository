@@ -1,0 +1,26 @@
+---
+title: "Prediciting and clustering softball pitches"
+format: gfm
+---
+
+
+## Introduction
+
+
+
+
+## Data
+
+```{python}
+import pandas as pd
+```
+
+## Methods
+
+## Results
+
+## Discussion
+
+
+
+
